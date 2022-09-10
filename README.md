@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Morais</h1>
-<h3 align="justify">Passionate about web development and training in the area, I am following my vocation for originality, innovation and the creation of unique projects.The development of digital solutions that bring innovative results is my purpose.
+<div align="center">
+
+![Baby Greg Waving](https://c.tenor.com/Q5FeL3e0XK4AAAAi/babyyoda.gif)
+---
+
+</div>
+
+<h3 align="justify">Hi,Im Rodrigo Morais.</h3>
+<p>Passionate about web development and training in the area, I am following my vocation for originality, innovation and the creation of unique projects.The development of digital solutions that bring innovative results is my purpose.
 Always evolving, I like to keep up to date with new advances in technology and programming.
-The development of our knowledge is the basis for great achievements.</h3>
+The development of our knowledge is the basis for great achievements.</p>
 <hr>
 
 - 🌱 I’m currently learning **HTML/CSS|JS/AJAX|PHP|MySQL**
